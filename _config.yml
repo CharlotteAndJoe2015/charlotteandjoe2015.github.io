@@ -3,8 +3,8 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Setup
-title:            Charlotte and Joe 
-description:      'Wedding 2015'
+title:            Charlotte & Joe
+description:      '3rd May 2015'
 url:              http://charlotteandjoe2015.github.io/
 baseurl:          /
 
