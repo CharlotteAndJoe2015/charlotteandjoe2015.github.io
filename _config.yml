@@ -1,0 +1,13 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Setup
+title:            Charlotte & Joe
+description:      '3rd May 2015'
+url:              http://charlotteandjoe2015.github.io/
+baseurl:          /
+
+author:
+  name:           'Joe Smallman'
+  url:            https://twitter.com/SmallJoeMan
