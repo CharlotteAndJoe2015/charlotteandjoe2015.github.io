@@ -92,11 +92,11 @@ h1 {
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.0rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -230,7 +230,10 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin-left:  0rem;
+  margin-right: 2rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
   border-radius: 5px;
 }
 

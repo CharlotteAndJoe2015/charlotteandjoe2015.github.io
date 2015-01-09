@@ -8,8 +8,6 @@ description:      '3rd May 2015'
 url:              http://charlotteandjoe2015.github.io/
 baseurl:          /
 
-paginate:         5
-
 author:
   name:           'Joe Smallman'
   url:            https://twitter.com/SmallJoeMan
