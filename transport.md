@@ -3,6 +3,6 @@ layout: page
 title: Transport
 ---
 
-##Das Bus
+##Der Bus
 
-##Taxi
+##Taxi and Train
