@@ -34,6 +34,6 @@ SG8 0HR
 
 * Join the A603 heading west from Cambridge (junction 12 on the M11) 
 * At the roundabout junction with the A1198, turn left towards Royston on the A1198. 
-* 400 hundred yards south of the roundabout turn right off the A1198 at the signpost to Shingay-cum- Wendy. 
+* 400 hundred yards south of the roundabout turn right off the A1198 at the signpost to Shingay-cum-Wendy. 
 * After two miles turn left at the first turn, signed to Abington Piggots. 
 * South Farm is half a mile further on, on the right just after a sharp double bend.

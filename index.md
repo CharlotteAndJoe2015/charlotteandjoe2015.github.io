@@ -3,8 +3,8 @@ layout: page
 title: Home
 ---
 
+Hello viewers!
 <img src="/CanyonCoffee.png" align="left">
-Hello viewers! 
 
 Welcome to our pretentious wedding website.
 
