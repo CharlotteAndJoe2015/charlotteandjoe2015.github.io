@@ -14,7 +14,7 @@ Wesley Methodist Church is situated in central Cambridge, approximately 5 minute
     </div>
 </div>
 
-Wesley Methodist Church  
+[Wesley Methodist Church](http://www.wesleycam.org.uk/)  
 Christ Pieces  
 Cambridge  
 CB1 1LG
@@ -25,13 +25,14 @@ There are no parking spaces on site at the church. However, there is limited on-
 
 ##Reception
 
-South Farm is situated in Southwest Cambridgeshire, about 12 miles West of Cambridge, and about a 25 minute drive from the church.
+South Farm is situated in south west Cambridgeshire, about 12 miles west of Cambridge, and about a 25 minute drive from the church.
 
 <div class="scalableWrapper">
     <div class="h_iframe">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39233.67157656852!2d-0.050250622377668294!3d52.07782800967998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4877d406fa8ea6fb%3A0x6b0953a2dd0d1551!2sRoyston%2C+Cambridgeshire+SG8+0HR!5e0!3m2!1sen!2suk!4v1420846403243" width="640" height="480" frameborder="0" style="border:0"></iframe>
     </div>
 </div>
+
 
 [South Farm](http://www.south-farm.co.uk/)  
 Shingay-cum-Wendy  

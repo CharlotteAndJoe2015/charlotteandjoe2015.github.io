@@ -14,15 +14,15 @@ For our evening guests and those staying for the whole weekend, here are our rec
 * [The Pint Shop](http://pintshop.co.uk/) - 'Meat.Bread.Beer.' Rather hipster, but the selection of craft beers, wine and meat dishes is excellent.
 * [Aromi Caffe](http://www.aromi.co.uk/) - An amazing Italian cafe selling fresh pizza, panini and pastries.
 * [D'Arry's](http://www.darrys.co.uk/) - Nice restaurant serving modern British food (yes Zoe, you've been here)
-* [Nanna Mexico](http://www.nannamexico.com/) - Very yummy mexican food
+* [Nanna Mexico](http://www.nannamexico.com/) - Very yummy Mexican food.
 * [The Anchor](http://www.metropolitanpubcompany.com/our-pubs/the-anchor/) - A great gastro pub. It's on the walk we suggest in the [Cambridge](\cambridge.html) page.
 * [Alimentum](http://www.restaurantalimentum.co.uk/) - a Michelin Star restaurant near the train station. Are you feeling afluent?
 * [The Wrestlers](http://www.thewrestlerscambridge.co.uk/) - Real ales, wines and an amazing Thai kitchen.
-* [Five Guys Burgers and Fries](https://www.fiveguys.co.uk/) - The best burgers and fries in the whole UK *and* USA. [Have yourself a double cheesburger. Dayum, dayum, dayuum!](https://www.youtube.com/watch?v=DcJFdCmN98s).
+* [Five Guys Burgers and Fries](https://www.fiveguys.co.uk/) - The best burgers and fries in the whole UK *and* USA. [Have yourself a double cheeseburger. Dayum, dayum, dayuum!](https://www.youtube.com/watch?v=DcJFdCmN98s)
 
 ##Drinking
 
-For great craft ales, lagers and fine wine we suggest:
+For great craft ales, lagers and fine wines we suggest:
 
 * [The Haymakers](https://www.google.co.uk/maps/place/Haymakers,+High+St,+Cambridge+CB4+1GX/@52.2174515,0.1394346,17z/data=!3m1!4b1!4m2!3m1!1s0x47d870f41ced61f7:0xbca482057047d74d)
 * [The Maypole](http://www.maypolefreehouse.co.uk/Welcome.html)
