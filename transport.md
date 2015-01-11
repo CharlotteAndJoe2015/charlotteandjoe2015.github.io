@@ -5,13 +5,14 @@ title: Transport
 
 ##Der Bus
 
-<img src="images/CamelRide.png" align="left">
+<img src="images/timloobybus.jpg" align="right">
 We have arranged a vintage bus for the day, and will be able to transport some guests after the wedding ceremony to the South Farm reception venue (see [locations](\locations.html)). 
 
 Unfortunately capacity is limited, and places will be allocated on a first come, first serve basis, so if you would like a free ride please contact us ASAP! 
 
 ##Train
 
+<img src="images/CamelRide.png" align="left">
 The closest train station to the church is Cambridge Train Station. It's quite a walk from there to the church so we suggest you get a taxi across Cambridge.
 
 The closest train station to South Farm is Royston. From there you will need to get a taxi. They frequent the station quite regularly, except when they don't.
