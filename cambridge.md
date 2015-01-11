@@ -5,7 +5,7 @@ title: Cambridge
 
 ##Things To Do
 
-For those arriving on Saturday, or attending the evening reception, we reccomend spending some time in Cambridge city itself. There's plenty to see and do, these are our personal sugggestions.
+For those arriving on Saturday, or attending the evening reception, we recommend spending some time in Cambridge city itself. There's plenty to see and do; these are our personal sugggestions.
 
 ###Walk Around the City Centre
 
@@ -26,10 +26,10 @@ Of course no trip to Cambridge would be complete without a punt! You can either 
 
 ###Picnic
 
-If the weather is nice, a picnic by the river is lovely. Our favourite spots are on [Jesus Green](https://www.google.co.uk/maps/place/Jesus+Green/@52.211508,0.122904,17z/data=!3m1!4b1!4m2!3m1!1s0x47d870952ddb593f:0x6c0a770654764ce1) and [Coe Fen](https://www.google.co.uk/maps/place/Coe+Fen/@52.1991153,0.1182741,16z/data=!4m2!3m1!1s0x0000000000000000:0x90c3ffe5c4ef640e)
+If the weather is nice, a picnic by the river is lovely. Our favourite spots are on [Jesus Green](https://www.google.co.uk/maps/place/Jesus+Green/@52.211508,0.122904,17z/data=!3m1!4b1!4m2!3m1!1s0x47d870952ddb593f:0x6c0a770654764ce1) and [Coe Fen](https://www.google.co.uk/maps/place/Coe+Fen/@52.1991153,0.1182741,16z/data=!4m2!3m1!1s0x0000000000000000:0x90c3ffe5c4ef640e).
 
 ###Shopping
-Cambridge is a great place for shopping, with most high street chains and a John Lewis. There are also some lovely little shops in the back streets that we (Charlotte) particularly like:
+Cambridge is a great place for shopping, with pretty much all of the high street chains. There are also some lovely little shops in the back streets that we (Charlotte) particularly like:
 
 * [Ness](http://www.ness.co.uk/ness-stores) for Scottish-inspired fashion
 * [Nord](http://www.nordesign.co.uk/) for Scandi design
@@ -42,17 +42,17 @@ You should definitely go check out [King's](https://www.google.co.uk/maps/place/
 
 The [Fitzwilliam Museum](http://www.fitzmuseum.cam.ac.uk/) is free to enter and houses a 'world-class collection of art and antiques spanning centuries'.
 
-[Kettle's Yard](http://www.kettlesyard.co.uk/) is a free admission art gallary with 20th century, contemporary and modern art exhibitions (we're not sure if those are three different genres!) 
+[Kettle's Yard](http://www.kettlesyard.co.uk/) is a free admission art gallery with 20th century, contemporary and modern art exhibitions (we're not sure if those are three different genres!).
 
 ###Cycling
 
 <img src="images/Cycling.png" align="left">
-Cambridge is *very* flat, so easy going on a bike. It's also very safe and great fun to pootle around the city and explore. If you fancy more of a challenge, there's a guided bus way and cycle path that runs all the way to St Ives. You could also ride to the [Science Park](https://www.google.co.uk/maps/place/Cambridge+Science+Park/@52.2321914,0.1468919,15z/data=!4m2!3m1!1s0x0000000000000000:0xf354e69dd347f41a) and check out all the companies based in 'Silicon Fen'.
+Cambridge is *very* flat, so easy going on a bike. It's also very safe and great fun to pootle around the city and explore. If you fancy more of a challenge, there's a guided bus way and cycle path that runs all the way to St Ives (Cambridgeshire, not Cornwall!). You could also ride to the [Science Park](https://www.google.co.uk/maps/place/Cambridge+Science+Park/@52.2321914,0.1468919,15z/data=!4m2!3m1!1s0x0000000000000000:0xf354e69dd347f41a) and check out all the companies based in 'Silicon Fen'.
 
 You can hire bikes from [City Cycle Hire](http://www.citycyclehire.com/), [Station Cycles](http://stationcycles.co.uk/) and [Cambridge Bike Tours](http://www.cambridgebiketours.co.uk/). Sorry no 'Boris (Ken!) bikes'. I suggest you bring your own bike, and bring a lock!
 
 ###Botanic Gardens
-Apparently these are very nice. Click [here](http://www.botanic.cam.ac.uk/Botanic/Home.aspx) to find out more.
+Apparently these are very nice. (Charlotte did visit once on a year 7 school trip!) Click [here](http://www.botanic.cam.ac.uk/Botanic/Home.aspx) to find out more.
 
 ###American Cemetery and Memorial
 

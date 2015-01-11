@@ -30,7 +30,7 @@ Right then, down to business. Here's the wedding timetable. Don't be late, we’
       <td>Wedding breakfast</td>
     </tr>
       <td>1830</td>
-      <td>Speaches</td>
+      <td>Speeches</td>
     </tr>
     <tr>
       <td>1915</td>
@@ -46,7 +46,7 @@ Right then, down to business. Here's the wedding timetable. Don't be late, we’
     </tr>
     <tr>
       <td>2035</td>
-      <td>First dance</td>
+      <td>First dance followed by live music</td>
     </tr>
     <tr>
       <td>2130</td>
