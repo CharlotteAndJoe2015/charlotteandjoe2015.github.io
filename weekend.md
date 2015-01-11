@@ -3,7 +3,7 @@ layout: page
 title: The Weekend
 ---
 
-<img src="/Raptor.jpg">
+<img src="images/Raptor.jpg">
 
 ##Sunday
 

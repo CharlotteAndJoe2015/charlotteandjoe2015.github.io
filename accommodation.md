@@ -2,7 +2,7 @@
 layout: page
 title: Accommodation
 ---
-
+<img src="images/EdinburghHotel.png" align="left">
 There is a vast array of accommodation available in and around Cambridge, from hotels, to B&Bs and, if you’re feeling brave, campsites!
 
 If you’re planning on coming for the whole weekend, we’d recommend stopping in Cambridge itself to be able to explore the many sights of the city - all of which are within easy walking distance. Having said that, the mode de rigueur of transport around the city is the bicycle! So when in Rome... 

@@ -19,7 +19,7 @@ As featured in many films and television series such as 'The Theory of Everythin
 
 ###Punting
 
-<img src="/Punting.png" align="right">
+<img src="images/Punting.png" align="right">
 Of course no trip to Cambridge would be complete without a punt! You can either hire your own punt, or take a guided punt tour. Having tried and tested both, we would definitely reccommend the tour option - it's much less effort, you can relax with a glass of Pimm's or Champagne, and learn interesting (often questionable) facts about the city and university. 
 
 [Scudamore's](http://www.scudamores.com/) is the largest company, running punting trips from [Granta Place](https://www.google.co.uk/maps/place/Scudamore's+Boatyard/@52.201057,0.116182,17z/data=!3m1!4b1!4m2!3m1!1s0x47d870a34a1b9acd:0xf4ca551a0da78cb7) and [Magdalene Street](https://www.google.co.uk/maps/place/Scudamore's+Punting+Company/@52.209809,0.116729,17z/data=!3m1!4b1!4m2!3m1!1s0x47d870a34a1b9acd:0xf9c5d731f202f46a). You also won't be able to escape the student 'touts' offering guided tours and punts near the Market Square and King's. Personally we'd avoid them.
@@ -29,7 +29,7 @@ Of course no trip to Cambridge would be complete without a punt! You can either 
 If the weather is nice, a picnic by the river is lovely. Our favourite spots are on [Jesus Green](https://www.google.co.uk/maps/place/Jesus+Green/@52.211508,0.122904,17z/data=!3m1!4b1!4m2!3m1!1s0x47d870952ddb593f:0x6c0a770654764ce1) and [Coe Fen](https://www.google.co.uk/maps/place/Coe+Fen/@52.1991153,0.1182741,16z/data=!4m2!3m1!1s0x0000000000000000:0x90c3ffe5c4ef640e)
 
 ###Shopping
-Cambridge is a great place for shopping, with most high street chains and a John Lewis. There are also some lovely little shops in the back streets - we (Charlotte!) particularly like:
+Cambridge is a great place for shopping, with most high street chains and a John Lewis. There are also some lovely little shops in the back streets that we (Charlotte) particularly like:
 
 * [Ness](http://www.ness.co.uk/ness-stores) for Scottish-inspired fashion
 * [Nord](http://www.nordesign.co.uk/) for Scandi design
@@ -46,7 +46,7 @@ The [Fitzwilliam Museum](http://www.fitzmuseum.cam.ac.uk/) is free to enter and 
 
 ###Cycling
 
-<img src="/Cycling.png" align="left">
+<img src="images/Cycling.png" align="left">
 Cambridge is *very* flat, so easy going on a bike. It's also very safe and great fun to pootle around the city and explore. If you fancy more of a challenge, there's a guided bus way and cycle path that runs all the way to St Ives. You could also ride to the [Science Park](https://www.google.co.uk/maps/place/Cambridge+Science+Park/@52.2321914,0.1468919,15z/data=!4m2!3m1!1s0x0000000000000000:0xf354e69dd347f41a) and check out all the companies based in 'Silicon Fen'.
 
 You can hire bikes from [City Cycle Hire](http://www.citycyclehire.com/), [Station Cycles](http://stationcycles.co.uk/) and [Cambridge Bike Tours](http://www.cambridgebiketours.co.uk/). Sorry no 'Boris (Ken!) bikes'. I suggest you bring your own bike, and bring a lock!

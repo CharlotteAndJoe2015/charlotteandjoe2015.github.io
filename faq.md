@@ -3,6 +3,7 @@ layout: page
 title: FAQ
 ---
 
-<img src="/lex.jpg">
+<img src="/images/lex.jpg">
+
 
 Cash bar - there will be a cash bar

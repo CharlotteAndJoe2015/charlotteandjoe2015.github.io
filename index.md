@@ -4,7 +4,7 @@ title: Home
 ---
 
 Hello viewers!
-<img src="/CanyonCoffee.png" align="left">
+<img src="images/CanyonCoffee.png" align="left">
 
 Welcome to our pretentious wedding website.
 
