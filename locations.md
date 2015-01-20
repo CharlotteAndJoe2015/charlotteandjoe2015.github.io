@@ -25,7 +25,7 @@ There are no parking spaces on site at the church. However, there is limited on-
 
 ##Reception
 
-South Farm is situated in south west Cambridgeshire, about 12 miles west of Cambridge, and about a 25 minute drive from the church.
+South Farm is situated on the Cambridgeshire/Hertfordshire border, about 12 miles west of Cambridge, and about a 25 minute drive from the church.
 
 <div class="scalableWrapper">
     <div class="h_iframe">
