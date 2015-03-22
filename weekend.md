@@ -41,11 +41,11 @@ Right then, down to business. Here's the wedding timetable. Don't be late, we’
       <td>Evening guests arrive</td>
     </tr>
     <tr>
-      <td>2030</td>
+      <td>2015</td>
       <td>Cutting of the cake</td>
     </tr>
     <tr>
-      <td>2035</td>
+      <td>2030</td>
       <td>First dance followed by live music</td>
     </tr>
     <tr>
