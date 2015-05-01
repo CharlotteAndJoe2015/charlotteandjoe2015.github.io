@@ -23,7 +23,7 @@ Right then, down to business. Here's the wedding timetable. Don't be late, we’
     </tr>
     <tr>
       <td>1500</td>
-      <td>Drinks reception at South Farm with live music from friends and family (get in touch if you'd like to get involved!)</td>
+      <td>Drinks reception and group photos at South Farm with live music from friends and family (get in touch if you'd like to get involved!)</td>
     </tr>
     <tr>
       <td>1700</td>
